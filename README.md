@@ -1,4 +1,4 @@
-# lda-on-ao3
+# A Linear Discriminant Analysis (LDA) of Archive of Our Own (AO3)
 This project involved doing a linear discriminant analysis of works published over a month-long period on the website [archiveofourown.org](archiveofourown.org). The aim was to predict each work's rating, using only the numeric information in the metadata.
 
 Even though the model had an correct classification rate of only 46%, we can see there is certainly a pretty strong pattern:
